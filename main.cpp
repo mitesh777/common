@@ -3,19 +3,15 @@ using namespace std;
 
 int main() {
 
-    cout << "Hello World mehak shmackan";
-    cout<< "It's been a long day without you my fraand"<<endl<<"I'll tell you all about it when I CU again.";
-    da;adkjfadjf;adjf;adjfj
-    cout<<";(";
-asfuasgfiashf
-haishao
-    cout<<";asa(";
-fhasiohfa
-
-
+    int a = 2;
+  	int b = 5;
+  	int c = a + b;
+	
+	  cout<<"Depicting addition. Sum is "<<c<<"."<<endl;
+  
     cout << "Hello World!!!";
     cout<< "It's been a long day without you my friend."<<endl<<"And I'll tell you all about it when I see you again.";
-	cout<<"Done. :)";
+	  cout<<"Done. :)";
 
     return 0;
 }
